@@ -64,9 +64,3 @@ This repository contains code to train a YOLOv8 model for detecting hand gesture
         display(Image(filename=image_path, height=600))
         print('\n')
     ```
-
-## License
-
-This project is licensed under the MIT License.
-
----
